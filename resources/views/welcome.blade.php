@@ -11,7 +11,8 @@
 
     <!-- initialize datepicker -->
     <script>
-        $("#date-picker").datepicker();
+        $("#date-picker-from").datepicker();
+        $("#date-picker-to").datepicker();
     </script>
 
 @endsection
